@@ -9,5 +9,7 @@ routes.get("/", (req, res) => {
 
 routes.get("/employee", EmployeeController.index);
 routes.post("/employee", EmployeeController.store);
+routes.delete("/employee/:_id", EmployeeController.delete);
+routes.put("/employee/:_id", EmployeeController.update);
 
 module.exports = routes;
