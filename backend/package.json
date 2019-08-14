@@ -1,8 +1,8 @@
 {
-  "name": "point-boot-management",
+  "name": "point-book-management",
   "version": "1.0.0",
   "main": "server.js",
-  "repository": "github.com/homdreen/point-boot-management",
+  "repository": "github.com/homdreen/point-book-management",
   "author": "Felipe Homrich Melchior <fehmel@gmail.com>",
   "license": "MIT",
   "scripts": {
